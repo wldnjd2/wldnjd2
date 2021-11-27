@@ -2,24 +2,24 @@
 
 
 <div align="center">
- <h4>안녕하세요👋</h4>
+ <h4>안녕하세요😉</h4>
 
 ---
 <h3>🔥 Stack 🔥</h3>
 
 <!-- python -->
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <!-- Java -->
-<img src="https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <!-- HTML5 -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <!-- JavaScript -->
-<img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
 <!-- CSS3 -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <!-- MySQL -->
-<img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <!-- Plotly -->
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/>
 
