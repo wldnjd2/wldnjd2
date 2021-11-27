@@ -6,32 +6,31 @@
 
 ---
 <h3>🔥 Stack 🔥</h3>
+
 <!-- python -->
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
-<!-- java -->
-<img src="https://img.shields.io/badge/Java-green?style=flat&logo=Java&logoColor=white"/>
+<!-- Java -->
+<img src="https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=white"/>
 <!-- HTML5 -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<!-- CSS3 -->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<!-- MySQL -->
-<img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>
-<!-- GitHub -->
-<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>
-<!-- Git -->
-<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <!-- JavaScript -->
-<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
-
+<img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
+<!-- CSS3 -->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<!-- MySQL -->
+<img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat-square&logo=MySQL&logoColor=white"/>
+<!-- Plotly -->
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/>
 
 <h3>❤️ ME ❤️</h3>
 <!-- instagram -->
 <a href="https://www.instagram.com/wldnjd2/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <!-- blog -->
 <a href="https://wldnjd2.github.io/">
-<img src="https://img.shields.io/badge/♡BLOG-EA4AAA?style=flat&logo=♡Blog&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/♡BLOG-EA4AAA?style=flat-square&logo=♡Blog&logoColor=white"/></a> &nbsp 
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jeewon3665@gmail.com) 
 </div>
