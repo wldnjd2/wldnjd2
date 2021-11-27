@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=wldnjd2&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
 
-Hello World!
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+
+<div align="center">
+  <h4>안녕하세요👋</h4>
+</div>
