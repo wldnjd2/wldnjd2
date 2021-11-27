@@ -6,7 +6,7 @@
 
 
 <!-- python -->
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <!-- instagram -->
 <a href="https://www.instagram.com/wldnjd2/">
@@ -14,6 +14,6 @@
 
 <!-- blog -->
 <a href="https://wldnjd2.github.io/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/♡Blog-ffa6f0?style=flat-square&logo=♡Blog&logoColor=white"/></a> &nbsp 
 
 </div>
