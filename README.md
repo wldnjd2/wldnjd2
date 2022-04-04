@@ -29,8 +29,14 @@
 
 <!-- gmail -->
 
-    [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeewon3665@gmail.com)](mailto:jeewon3665@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeewon3665@gmail.com)](mailto:jeewon3665@gmail.com)
+<br>
 
+<!-- instagram -->
+<div>
+    <a href="https://www.instagram.com/wldnjd2/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</div>
 
 <!--tistory blog-->
 <div>
@@ -41,11 +47,7 @@
 
 
 
-<!-- instagram -->
-<div>
-    <a href="https://www.instagram.com/wldnjd2/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</div>
+
     
 <!-- blog -->
 <div>
