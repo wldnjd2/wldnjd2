@@ -26,19 +26,28 @@
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/>
 
 <h3>❤️ ME ❤️</h3>
+
+<!--tistory blog-->
+<div>
+    블로그로 이동 👉
+    <a href="https://wldnjd2.tistory.com/">
+    <img src="https://img.shields.io/badge/Tech Blog-EA4AAA?style=flat-square&logo=♡Blog&logoColor=white"/></a>
+</div>
+
+<div>
+    [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jeewon3665@gmail.com) 
+</div>
+
 <!-- instagram -->
-<a href="https://www.instagram.com/wldnjd2/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<br>
-
+<div>
+    <a href="https://www.instagram.com/wldnjd2/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</div>
+    
 <!-- blog -->
-깃허브 블로그(종료)
-<a href="https://wldnjd2.github.io/">
-<img src="https://img.shields.io/badge/Tech Blog-9ba0a8?style=flat-square&logo=♡Blog&logoColor=white"/></a> &nbsp 
-
-👇🏻 티스토리 블로그로 이동 👇🏻<br>
-<a href="https://wldnjd2.tistory.com/">
-<img src="https://img.shields.io/badge/Tech Blog-EA4AAA?style=flat-square&logo=♡Blog&logoColor=white"/></a>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jeewon3665@gmail.com) 
-</div># TEST1
+<div>
+    깃허브 블로그(종료) 👉
+    <a href="https://wldnjd2.github.io/">
+    <img src="https://img.shields.io/badge/Tech Blog-9ba0a8?style=flat-square&logo=♡Blog&logoColor=white"/></a>
+    <br>
+<div>
