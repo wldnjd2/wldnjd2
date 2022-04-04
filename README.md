@@ -29,12 +29,14 @@
 <!-- instagram -->
 <a href="https://www.instagram.com/wldnjd2/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<br>
 
 <!-- blog -->
+깃허브 블로그(종료)
 <a href="https://wldnjd2.github.io/">
-<img src="https://img.shields.io/badge/Tech Blog-EA4AAA?style=flat-square&logo=♡Blog&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Tech Blog-9ba0a8?style=flat-square&logo=♡Blog&logoColor=white"/></a> &nbsp 
 
-👇🏻👇🏻👇🏻 아래는 티스토리 블로그로 이동 (깃허브는 이제 안해용)<br>
+👇🏻 티스토리 블로그로 이동 👇🏻<br>
 <a href="https://wldnjd2.tistory.com/">
 <img src="https://img.shields.io/badge/Tech Blog-EA4AAA?style=flat-square&logo=♡Blog&logoColor=white"/></a>
 
