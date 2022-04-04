@@ -30,7 +30,6 @@
 <!-- gmail -->
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeewon3665@gmail.com)](mailto:jeewon3665@gmail.com)
-<br>
 
 <!-- instagram -->
 <a href="https://www.instagram.com/wldnjd2/">
