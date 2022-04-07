@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <!-- Plotly -->
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/>
+<!-- PostgreSQL -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
 <h3>❤️ ME ❤️</h3>
 
@@ -40,7 +42,7 @@
 <div>
     블로그로 이동 👉
     <a href="https://wldnjd2.tistory.com/">
-    <img src="https://img.shields.io/badge/Tech Blog-EA4AAA?style=flat-square&logo=♡Blog&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/TechBlog-EA4AAA?style=flat-square&logo=♡Blog&logoColor=white"/></a>
 </div>
 
 
@@ -51,6 +53,6 @@
 <div>
     깃허브 블로그(종료) 👉
     <a href="https://wldnjd2.github.io/">
-    <img src="https://img.shields.io/badge/Tech Blog-9ba0a8?style=flat-square&logo=♡Blog&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/TechBlog-9ba0a8?style=flat-square&logo=♡Blog&logoColor=white"/></a>
     <br>
 <div>
