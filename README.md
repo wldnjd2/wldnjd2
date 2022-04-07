@@ -42,7 +42,7 @@
 <div>
     블로그로 이동 👉
     <a href="https://wldnjd2.tistory.com/">
-    <img src="https://img.shields.io/badge/TechBlog-EA4AAA?style=flat-square&logo=♡Blog&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/TechBlog-EA4AAA?style=flat-square&logo=GitHubBlog&logoColor=white"/></a>
 </div>
 
 
@@ -53,6 +53,6 @@
 <div>
     깃허브 블로그(종료) 👉
     <a href="https://wldnjd2.github.io/">
-    <img src="https://img.shields.io/badge/TechBlog-9ba0a8?style=flat-square&logo=♡Blog&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/TechBlog-9ba0a8?style=flat-square&logo=TechBlog&logoColor=white"/></a>
     <br>
 <div>
