@@ -34,7 +34,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeewon3665@gmail.com)](mailto:jeewon3665@gmail.com)
 
-<!-- instagram -->
+<!-- Instagram -->
 <a href="https://www.instagram.com/wldnjd2/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br>
@@ -53,3 +53,12 @@
     <img src="https://img.shields.io/badge/TechBlog-9ba0a8?style=flat-square&logo=TechBlog&logoColor=white"/></a>
     <br>
 <div>
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldnjd2&count_bg=%23E7E198&title_bg=%23A8A0A0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+![wldnjd2's github stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true)
+[![wldnjd2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=본인ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wldnjd2)
