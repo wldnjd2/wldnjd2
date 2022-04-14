@@ -28,6 +28,7 @@
 
 
 ---
+<img align="right" >
 <h3>🔥 Stack 🔥</h3>
 
 <!-- python -->
@@ -52,11 +53,11 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
 
+</img>
 
 
 
-
-
+<img align="left"> 
 
 ![wldnjd2's github stats](https://github-readme-stats.vercel.app/api?username=wldnjd2&show_icons=true)
-
+</img>
