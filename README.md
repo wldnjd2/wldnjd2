@@ -28,6 +28,7 @@
 
 
 ---
+<img align= "right"  src ="https://github-readme-stats.vercel.app/api?username=wldnjd2&show_icons=true"/>
 
 <h3>🔥 Stack 🔥</h3>
 
@@ -59,5 +60,5 @@
 
 
 
-<img align= "left"  src ="https://github-readme-stats.vercel.app/api?username=wldnjd2&show_icons=true"/>
+
 
