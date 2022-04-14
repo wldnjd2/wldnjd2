@@ -2,7 +2,30 @@
 
 
 <div align="center">
- <h4>안녕하세용😉</h4>
+
+
+<h3><b>🐣JeewonKim🐥</h3>
+
+<!--방문자 수. 조회-->
+<a href="https://github.com/wldnjd2"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldnjd2&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+
+
+
+<!--Tistory blog-->
+<div>
+    블로그로 이동 👉
+    <a href="https://wldnjd2.tistory.com/">
+    <img src="https://img.shields.io/badge/TechBlog-EA4AAA?style=flat-square&logo=GitHubBlog&logoColor=white"/></a>
+</div>
+    
+<!-- GitHub blog -->
+<div>
+    깃허브 블로그(종료) 👉
+    <a href="https://wldnjd2.github.io/">
+    <img src="https://img.shields.io/badge/TechBlog-9ba0a8?style=flat-square&logo=TechBlog&logoColor=white"/></a>
+    <br>
+<div>
+
 
 ---
 <h3>🔥 Stack 🔥</h3>
@@ -28,35 +51,11 @@
 <!-- PostgreSQL -->
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
-<h3><b>JeewonKim</h3>
-
-<!-- gmail -->
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeewon3665@gmail.com)](mailto:jeewon3665@gmail.com)
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/wldnjd2/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<br>
-
-<!--Tistory blog-->
-<div>
-    블로그로 이동 👉
-    <a href="https://wldnjd2.tistory.com/">
-    <img src="https://img.shields.io/badge/TechBlog-EA4AAA?style=flat-square&logo=GitHubBlog&logoColor=white"/></a>
-</div>
-    
-<!-- GitHub blog -->
-<div>
-    깃허브 블로그(종료) 👉
-    <a href="https://wldnjd2.github.io/">
-    <img src="https://img.shields.io/badge/TechBlog-9ba0a8?style=flat-square&logo=TechBlog&logoColor=white"/></a>
-    <br>
-<div>
 
 
 
-<a href="https://github.com/wldnjd2"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldnjd2&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+
+
 
 
 ![wldnjd2's github stats](https://github-readme-stats.vercel.app/api?username=wldnjd2&show_icons=true)
